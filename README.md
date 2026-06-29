@@ -30,15 +30,11 @@ The project combines SQL for business analysis, Python for data processing and a
 
 Implemented SQL-based business analysis using:
 
-Database creation and table design
-
-Data retrieval using SELECT
-
-Aggregation using SUM(), AVG()
-
-Data grouping using GROUP BY
-
-Sorting using ORDER BY
+* Database creation and table design
+* Data retrieval using SELECT
+* Aggregation using SUM(), AVG()
+* Data grouping using GROUP BY
+* Sorting using ORDER BY
 
 ### SQL Queries Performed
 
@@ -92,16 +88,20 @@ Developed a Python automation pipeline to:
 
 superstore-sales-analysis/
 │
-├── report.py
+├── superstore_dataset.csv
+├── Code (1).ipynb
 ├── sql_queries.sql
-├── sales_data.csv
+├── report.py
 ├── dashboard.pbix
 ├── README.md
-├── monthly_sales.png
-├── category_sales.png
-├── subcategory_sales.png
-├── discount_vs_profit.png
-├── Superstore_Report.xlsx
+│
+├── output/
+│    ├── monthly_sales.png
+│    ├── category_sales.png
+│    ├── subcategory_sales.png
+│    ├── discount_vs_profit.png
+│    ├── Superstore_Report.xlsx
+│    ├── profit_boxplot.png
 
 ---
 
