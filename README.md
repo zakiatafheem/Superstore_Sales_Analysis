@@ -84,26 +84,6 @@ Developed a Python automation pipeline to:
 
 ---
 
-## 📁 Project Structure
-
-superstore-sales-analysis/
-│
-├── superstore_dataset.csv
-├── Code (1).ipynb
-├── sql_queries.sql
-├── report.py
-├── dashboard.pbix
-├── README.md
-│
-├── output/
-│    ├── monthly_sales.png
-│    ├── category_sales.png
-│    ├── subcategory_sales.png
-│    ├── discount_vs_profit.png
-│    ├── Superstore_Report.xlsx
-│    ├── profit_boxplot.png
-
----
 
 ## 📈 Key Insights
 
