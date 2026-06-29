@@ -31,9 +31,13 @@ The project combines SQL for business analysis, Python for data processing and a
 Implemented SQL-based business analysis using:
 
 Database creation and table design
+
 Data retrieval using SELECT
+
 Aggregation using SUM(), AVG()
+
 Data grouping using GROUP BY
+
 Sorting using ORDER BY
 
 ### SQL Queries Performed
@@ -46,8 +50,7 @@ Sorting using ORDER BY
 * Region-wise Profit Analysis
 * Discount vs Profit Analysis
 
-#### SQL implementation stored in:
-superstore_queries.sql
+#### SQL implementation stored in: superstore_queries.sql
 
 ---
 ## 📈 Analysis Performed
